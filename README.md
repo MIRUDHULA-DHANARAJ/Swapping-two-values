@@ -1,4 +1,4 @@
-# Swapping-two-values
+# Exchange the values of two variables.
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
