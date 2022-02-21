@@ -27,9 +27,7 @@ b=t
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT
-![git logo](ex1out1.png)
-![](ex1out2.png)
-```
+![git logo](output.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
