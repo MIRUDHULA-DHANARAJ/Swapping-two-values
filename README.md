@@ -25,6 +25,7 @@ t=a
 a=b
 b=t
 print("Swapped values are:",a,b)
+```
 ## OUTPUT
 ![git logo](ex1out1.png)
 ![](ex1out2.png)
